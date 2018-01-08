@@ -1,0 +1,13 @@
+*{
+    border: 1px solid red; !impotant
+}
+
+h2 {
+    -webkit-margin-before: 0.3em;
+}
+.box {
+    width: 80%;
+    height: 20em;   
+    margin: .5em auto;
+    text-align: center;
+}
